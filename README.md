@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **okarin1511/okarin1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
