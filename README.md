@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Aseemk_123" target="blank"><img src="https://img.shields.io/twitter/follow/Aseemk_123?color=blue&label=Connect%20on%20Twitter&logo=Twitter&logoColor=sky-blue&style=flat-square" alt="Aseem Khandekar" /></a> </p>
 
-- 
 
 - 🔭 I’m currently a <b> LGM-SOC'21 </b> participant  
 
