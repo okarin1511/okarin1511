@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=okarin1511&layout=compact&bg_color=151515&text_color=daf7dc" alt="okarin1511" /></p>
 
 
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=okarin1511&layout=compact&theme=radical" alt="okarin1511" /> </p>
 
 
 <p align="right">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=okarin1511&layout=compact&theme=radical" alt="okarin1511" /> </p>
