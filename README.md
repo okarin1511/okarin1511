@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Aseemk_123" target="blank"><img src="https://img.shields.io/twitter/follow/Aseemk_123?color=blue&label=Connect%20on%20Twitter&logo=Twitter&logoColor=sky-blue&style=flat-square" alt="Aseem Khandekar" /></a> </p>
 
+- 🔭 I’m passionate about product building and full stack development
 
-- 🔭 I’m currently a <b> LGM-SOC'21 </b> participant  
+- 🌱 I’m currently expanding my knowledge on DApps and blockchain
 
-- 🌱 I’m currently expanding my knowledge in **JavaScript**, **Python**, **ReactJs**, **Flask**
+- 👯 I’m looking to collaborate on ReactJs, Flask/Django, NodeJs and decentralised projects
 
-- 👯 I’m looking to collaborate on HTML/CSS, ReactJS, ReactNative and Flask projects
-
-- ✨I'm currently learning Blockchain
+- ✨I'm currently learning AI/ML
 
 - 👨‍💻 Check out my personal portfolio: [To infinity and beyond!](https://okarin1511.github.io/portfolio-website/)
 
@@ -51,6 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></p>
+
 
 <h1 align="center">GitHub Stats</h1>
 
