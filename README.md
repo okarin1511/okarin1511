@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Aseemk_123" target="blank"><img src="https://img.shields.io/twitter/follow/Aseemk_123?color=blue&label=Connect%20on%20Twitter&logo=Twitter&logoColor=sky-blue&style=flat-square" alt="Aseem Khandekar" /></a> </p>
 
-- 🔭 I’m passionate about product building and full stack development
+- 🔭 I’m passionate about product building
 
-- 🌱 I’m currently expanding my knowledge on DApps and blockchain
+- 🌱 I’m currently working at ChatDaddy as a Full stack engineer
 
-- 👯 I’m looking to collaborate on ReactJs, Flask/Django, NodeJs and decentralised projects
-
-- ✨I'm currently learning AI/ML
+- 👯 I’m looking to collaborate and build bigger and better.
 
 - 👨‍💻 Check out my personal portfolio: [To infinity and beyond!](https://okarin1511.github.io/portfolio-website/)
 
