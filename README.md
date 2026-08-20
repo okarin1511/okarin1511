@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate and build bigger and better.
 
-- 👨‍💻 Check out my personal portfolio: [To infinity and beyond!](https://okarin1511.github.io/portfolio-website/)
-
 - 📫 Contact me: **aseem.khandekar@gmail.com**
 
 #
